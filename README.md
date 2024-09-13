@@ -79,7 +79,8 @@ Step 2: Creating User Groups
 ![Screenshot 2024-09-12 151749](https://github.com/user-attachments/assets/55b2bae2-f363-44e6-9664-8c2f16d01eed)
 
  . Optionally, attach users to the Group. This step can also be done later.
- 
+![Screenshot 2024-09-12 151830](https://github.com/user-attachments/assets/dbe13276-f75e-4538-bf77-e3ba35b61e81) 
+
  . Optionally, attach predefined permissions to the group by selecting one or more IAM Policies. This step can also be done later.
 
 2.3 Finalize and Create Group
