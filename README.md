@@ -78,6 +78,8 @@ Step 2: Creating User Groups
  . Provide a Group name (e.g., "Developers", "Admins", "HR", etc.).
 ![Screenshot 2024-09-12 151749](https://github.com/user-attachments/assets/55b2bae2-f363-44e6-9664-8c2f16d01eed)
 
+ . Optionally, attach users to the Group. This step can also be done later.
+ 
  . Optionally, attach predefined permissions to the group by selecting one or more IAM Policies. This step can also be done later.
 
 2.3 Finalize and Create Group
