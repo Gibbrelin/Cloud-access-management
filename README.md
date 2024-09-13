@@ -132,7 +132,9 @@ Then i logged in into Alice's account check if the policies are active in which 
 ![Screenshot 2024-09-13 121827](https://github.com/user-attachments/assets/292c6367-9f79-453c-968c-3c535259b485)
 
 I logged in into John's account in the HR department Group and tried to launch an EC2 instance but my access was denied also
+![Screenshot 2024-09-13 194000](https://github.com/user-attachments/assets/26ee5dc5-8a44-4503-b1a4-87dd3d481e64)
 
+This actions confirmes it that the policies set in place in the groups are active and working which makes Identity and Access Management a powerful Security tool in securing data in the AWS cloud Resource
 
 # Best Practices
 
