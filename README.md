@@ -43,6 +43,7 @@ Before you begin:
 ![Screenshot 2024-09-13 141004](https://github.com/user-attachments/assets/8b53c2c1-dee5-4c07-abae-9e5063f5b987)
 
  . Enter a unique User name.
+![Screenshot 2024-09-12 174548](https://github.com/user-attachments/assets/1ee5f9c3-9049-4938-930e-e9d902d86d2c)
 
  . Under Access type, choose the required type:
 Programmatic access: For users who need to interact with AWS via the AWS CLI, SDK, or API.
