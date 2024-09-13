@@ -71,6 +71,7 @@ Step 2: Creating User Groups
  ![Screenshot 2024-09-12 150840](https://github.com/user-attachments/assets/4e2cdb7d-90ae-4c7d-ae82-0dfd47f8971c)
 
  . Click the Create group button.
+![Screenshot 2024-09-13 143032](https://github.com/user-attachments/assets/d2349ad0-eafd-4f8d-a714-80d26abc20e5)
 
 2.2 Define Group Settings
 
