@@ -123,8 +123,10 @@ ACCOUNTING AND HR DEPARTMENT
 and added user Alice and John respectively
 
 I gave Acconting department EC2 connect policy and an s3 bucket access
+![Screenshot 2024-09-13 194141](https://github.com/user-attachments/assets/4034e076-e3a9-40b0-abf7-44b7c37f4635)
 
 And i gave HR Department EC2 connect and s3 bucket read only access
+
 
 # Best Practices
 
