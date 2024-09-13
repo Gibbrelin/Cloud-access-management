@@ -68,6 +68,7 @@ Step 2: Creating User Groups
 2.1 Navigate to User Groups
 
  . In the IAM dashboard, click User groups in the left-hand sidebar.
+ ![Screenshot 2024-09-12 150840](https://github.com/user-attachments/assets/4e2cdb7d-90ae-4c7d-ae82-0dfd47f8971c)
 
  . Click the Create group button.
 
