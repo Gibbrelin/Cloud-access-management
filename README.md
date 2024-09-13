@@ -128,7 +128,10 @@ I gave Acconting department EC2 connect policy and an s3 bucket access
 And i gave HR Department EC2 connect and s3 bucket read only access
 ![Screenshot 2024-09-13 194212](https://github.com/user-attachments/assets/547d29b7-93f4-408f-a9d4-1115c8411549)
 
-Then i logged in into Alice's account check if the policies are active in which i tried to enter the identity and access management (IAM) section but my access was denied
+Then i logged in into Alice's account check if the policies are active in which i tried to enter the identity and access management (IAM) section to make some changes but my access was denied
+![Screenshot 2024-09-13 121827](https://github.com/user-attachments/assets/292c6367-9f79-453c-968c-3c535259b485)
+
+I logged in into John's account in the HR department Group and tried to launch an EC2 instance but my access was denied also
 
 
 # Best Practices
