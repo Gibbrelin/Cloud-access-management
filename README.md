@@ -53,6 +53,15 @@ AWS Management Console access: For users who will access the AWS Console via a w
 ![Screenshot 2024-09-13 141751](https://github.com/user-attachments/assets/d95a320a-f96e-41b4-aad7-45f1a0f57cfd)
 
  . Click Next: Permissions.
+![Screenshot 2024-09-12 174701](https://github.com/user-attachments/assets/8f21604d-16dc-452b-9802-54032da7b4e2)
+. You can assign permissions in three ways:
+
+Add user to group: Assign the user to a group with predefined permissions.
+
+Attach policies directly: Assign specific policies to the user.
+
+Copy permissions from an existing user.
+
 
 Step 2: Creating User Groups
 
