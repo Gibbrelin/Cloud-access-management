@@ -115,7 +115,7 @@ IMPORTANT: This is the only time the secret key will be available. If lost, you 
 
 . Follow the on-screen steps to associate an MFA device (e.g., a virtual MFA app like Google Authenticator or a hardware MFA device).
 
-# Actively Testing Group Policies 
+# 4.1 Actively Testing Group Policies 
 For the testing process i created Two Groups with difference Policies and added users to them
 
 ACCOUNTING AND HR DEPARTMENT 
@@ -126,6 +126,9 @@ I gave Acconting department EC2 connect policy and an s3 bucket access
 ![Screenshot 2024-09-13 194141](https://github.com/user-attachments/assets/4034e076-e3a9-40b0-abf7-44b7c37f4635)
 
 And i gave HR Department EC2 connect and s3 bucket read only access
+![Screenshot 2024-09-13 194212](https://github.com/user-attachments/assets/547d29b7-93f4-408f-a9d4-1115c8411549)
+
+Then i logged in into Alice's account check if the policies are active in which i tried to enter the identity and access management (IAM) section but my access was denied
 
 
 # Best Practices
