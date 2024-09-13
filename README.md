@@ -82,6 +82,7 @@ Step 2: Creating User Groups
 ![Screenshot 2024-09-12 151830](https://github.com/user-attachments/assets/dbe13276-f75e-4538-bf77-e3ba35b61e81) 
 
  . Optionally, attach predefined permissions to the group by selecting one or more IAM Policies. This step can also be done later.
+![Screenshot 2024-09-12 151848](https://github.com/user-attachments/assets/5f0a9232-f1ad-4389-86d5-5dd29b0e171c)
 
 2.3 Finalize and Create Group
 
@@ -92,6 +93,7 @@ Step 2: Creating User Groups
 Step 3: Assigning Permissions to Users or Groups
 
 3.1 Assign Permissions via Policies
+
  . Permissions are assigned using IAM Policies. Policies define the allowed or denied actions for a user or group on specific AWS resources.
 
 3.1.1 Assign Permissions to a User
