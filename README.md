@@ -11,9 +11,9 @@ Step 1: Creating a User
 
 Step 2: Creating User Groups
 
-Step 3: Assigning Permissions to Users or Groups
+Step 3: Managing User Credentials
 
-Step 4: Managing User Credentials
+actively testing Group policies
 
 Best Practices
 
@@ -63,7 +63,7 @@ Attach policies directly: Assign specific policies to the user.
 Copy permissions from an existing user.
 
 
-Step 2: Creating User Groups
+# Step 2: Creating User Groups
 
 2.1 Navigate to User Groups
 
@@ -90,47 +90,10 @@ Step 2: Creating User Groups
 
  . Click Create group to save the new group.
 
-Step 3: Assigning Permissions to Users or Groups
 
-3.1 Assign Permissions via Policies
+# Step 3: Managing User Credentials
 
- . Permissions are assigned using IAM Policies. Policies define the allowed or denied actions for a user or group on specific AWS resources.
-
-3.1.1 Assign Permissions to a User
-
- . In the IAM dashboard, click Users.
-
- . Select the user to whom you want to assign permissions.
-
- . Click the Add permissions button.
-
- . You can assign permissions in three ways:
-
-Add user to group: Assign the user to a group with predefined permissions.
-
-Attach policies directly: Assign specific policies to the user.
-
-Copy permissions from an existing user.
-
- . Select the appropriate option and policies.
-
-3.1.2 Assign Permissions to a Group
-
- . In the IAM dashboard, click User groups.
-
- . Select the group you want to manage.
-
- . Click the Permissions tab.
-
- . Click the Attach policy button to add permissions to the group.
-
- . Search for and select the relevant policies (e.g., AdministratorAccess, ReadOnlyAccess, or custom policies).
-
- . Click Attach policy to apply the permissions.
-
-Step 4: Managing User Credentials
-
-4.1 Accessing User Credentials
+3.1 Accessing User Credentials
 
 . Once you create a user with programmatic access, AWS generates Access Keys and Secret Keys for API/CLI use. Ensure that these credentials are securely stored.
 
@@ -140,7 +103,7 @@ Step 4: Managing User Credentials
 
 IMPORTANT: This is the only time the secret key will be available. If lost, you will need to regenerate new keys.
 
-4.2 Enabling Multi-Factor Authentication (MFA)
+3.2 Enabling Multi-Factor Authentication (MFA)
 
 . For added security, enable Multi-Factor Authentication (MFA) for users.
 
@@ -151,6 +114,12 @@ IMPORTANT: This is the only time the secret key will be available. If lost, you 
 . Under Multi-Factor Authentication (MFA), click Assign MFA device.
 
 . Follow the on-screen steps to associate an MFA device (e.g., a virtual MFA app like Google Authenticator or a hardware MFA device).
+
+# Actively Testing Group Policies 
+For the testing process i created Two Groups with difference Policies and added users to them
+
+ACCOUNTING AND HR DEPARTMENT 
+and added user Alice and John respectively
 
 # Best Practices
 
