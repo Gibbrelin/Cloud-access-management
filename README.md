@@ -50,6 +50,7 @@ Programmatic access: For users who need to interact with AWS via the AWS CLI, SD
 AWS Management Console access: For users who will access the AWS Console via a web browser.
 
  . Set the Console password (for console access) and choose whether the user must create a new password at next sign-in.
+![Screenshot 2024-09-13 141751](https://github.com/user-attachments/assets/d95a320a-f96e-41b4-aad7-45f1a0f57cfd)
 
  . Click Next: Permissions.
 
