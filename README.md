@@ -37,6 +37,7 @@ Before you begin:
 
 1.3 Add a New User
  . In the IAM dashboard, click Users on the left sidebar.
+![Screenshot 2024-09-12 150840](https://github.com/user-attachments/assets/4e2cdb7d-90ae-4c7d-ae82-0dfd47f8971c)
 
  . Click Add user.
 
