@@ -119,7 +119,12 @@ IMPORTANT: This is the only time the secret key will be available. If lost, you 
 For the testing process i created Two Groups with difference Policies and added users to them
 
 ACCOUNTING AND HR DEPARTMENT 
+![Screenshot 2024-09-13 194101](https://github.com/user-attachments/assets/48ad1af5-caf2-4d6f-9772-c01fcd4ccdfe)
 and added user Alice and John respectively
+
+I gave Acconting department EC2 connect policy and an s3 bucket access
+
+And i gave HR Department EC2 connect and s3 bucket read only access
 
 # Best Practices
 
